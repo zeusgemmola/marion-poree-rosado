@@ -1,0 +1,9 @@
+.logo {
+  width: 450px;
+  align-self: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
